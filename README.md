@@ -1,0 +1,1 @@
+This repo contains our implementation of an Min Max algorithm capable of playing the game connected four made for the course "Intelligent Systems Programming" at ITU
